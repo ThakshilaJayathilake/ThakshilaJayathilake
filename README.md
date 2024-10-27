@@ -53,9 +53,11 @@ I am constantly enhancing my skills with:
 
 🌐 **Let’s Connect:**
 I love networking and exchanging ideas, so feel free to reach out!
-- **LinkedIn:** [https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/](#)
-- **GitHub:** [https://github.com/ThakshilaJayathilake](#)
-- **Twitter:** [https://x.com/nadeeJJ](#)
+- [LinkedIn](https://www.linkedin.com/in/thakshila-jayathilake-5919b5213/)
+- [GitHub](https://github.com/ThakshilaJayathilake)
+- [Twitter](https://x.com/nadeeJJ)
+
+
 
 ✉️ **Contact Me:** thakshilanj11@gmail.com
 
